@@ -8,7 +8,7 @@ body {
 /* NAVBAR */
 nav {
     background: #f7dce8;
-    padding: 15px;
+    padding: 3%;
     display: flex;
     justify-content: center;
 }
@@ -32,7 +32,7 @@ nav a:hover {
 }
 
 .gallery img {
-    width: 250px;
+    width: 50%;
     border-radius: 10px;
     transition: transform 0.3s;
 }
@@ -113,7 +113,7 @@ button:hover {
 }
 
 .profile-text {
-    max-width: 400px;
+    max-width: 100%;
     text-align: left;
 }
 
