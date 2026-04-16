@@ -32,7 +32,7 @@ nav a:hover {
 }
 
 .gallery img {
-    width: 50%;
+    width: 250px;
     border-radius: 10px;
     transition: transform 0.3s;
 }
